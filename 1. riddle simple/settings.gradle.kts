@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Riddle App"
 include(":app")
- 
+include(":kotlin_example")
